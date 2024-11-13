@@ -3,14 +3,14 @@
 Je suis un **apprenti administrateur réseau** passionné par **l'automatisation des systèmes**, la **programmation** et **le développement web**.
 
 ### Ce que je fais :
-- 🔧 Actuellement en alternance en tant qu'administrateur réseau.
+- 🔧 Actuellement en alternance en tant qu'administrateur réseau et techniciens IT.
 - 💻 Développe des **scripts PowerShell** pour automatiser des tâches.
 - 🌱 Apprends continuellement des technologies comme **Docker**, **SQL**, **Python** et **GitHub Actions**.
 - 📚 Je crée des projets open-source pour aider la communauté.
 - ⚙️ J'ai une expertise dans la gestion de serveurs, l'optimisation et les **systèmes d'information**.
 
 ### Compétences :
-- 💻 **Langages** : PowerShell, JavaScript, SQL, HTML, CSS, JavaScript
+- 💻 **Langages** : PowerShell, JavaScript, SQL, HTML, CSS
 - 🛠️ **Outils** : GitHub, Docker, Windows Server, PowerShell
 - 🔍 **Centres d’intérêt** : Administration système, Automatisation, DevOps
 
