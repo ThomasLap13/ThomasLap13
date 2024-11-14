@@ -15,8 +15,8 @@ Je suis un **apprenti administrateur réseau** passionné par **l'automatisation
 - 🔍 **Centres d’intérêt** : Administration système, Automatisation, DevOps
 
 ### Projets récents :
+- 🖥️ [Windows11_SetWallpaper](https://github.com/ThomasLap13/Windows11_SetWallpaper) : Un script pour mettre un fond écran via powershell sur Windows 11.
 - 🔨 [Windows11_UninstallBloatware](https://github.com/ThomasLap13/Windows11_UninstallBloatware) : Un script pour désinstaller les bloatwares de Windows 11.
-- 🖥️ [Site de test pour une boulangerie](https://github.com/ThomasLap13/Site_Boulangerie) : Un site vitrine pour m'entraîner à appliquer mes compétences.
 
 ### Me contacter :
 - 💬 Discord : [@ThomasLap13](https://discord.gg/dBMv64U)
