@@ -40,9 +40,9 @@
 
 | 📁 Projet | 🔍 Description |
 |----------|----------------|
-| 🖼️ Windows11_SetWallpaper | Script PowerShell pour changer le fond d’écran sur Windows 11 |
-| [🧹 Windows11_UninstallBloatware](https://github.com/ThomasLap13/Windows11de Windows 11 |
-| 🎮 Game-Reduction | Application ou script lié à la réduction de jeux |
+| [🖼️ Windows11_SetWallpaper](https://github.com/ThomasLap13/Windows11_UninstallBloatware) |
+| [🧹 Windows11_UninstallBloatware](https://github.com/ThomasLap13/Windows11_UninstallBloatware) |
+| [🎮 Game-Reduction](https://github.com/ThomasLap13/Game-Reduction) |
 
 ---
 
