@@ -40,9 +40,9 @@
 
 | 📁 Projet | 🔍 Description |
 |----------|----------------|
-| [🖼️ Windows11_SetWallpaper](https://github.com/ThomasLap13/Windows11_UninstallBloatware) |
-| [🧹 Windows11_UninstallBloatware](https://github.com/ThomasLap13/Windows11_UninstallBloatware) |
-| [🎮 Game-Reduction](https://github.com/ThomasLap13/Game-Reduction) |
+| [🖼️ Windows11_SetWallpaper](https://github.com/ThomasLap13/Windows11_UninstallBloatware) | Script PowerShell simple et efficace pour définir automatiquement un fond d’écran personnalisé sur Windows 11. |
+| [🧹 Windows11_UninstallBloatware](https://github.com/ThomasLap13/Windows11_UninstallBloatware) | Outil PowerShell pour désinstaller les applications préinstallées inutiles (bloatwares) sur Windows 11 et alléger le système. |
+| [🎮 Game-Reduction](https://github.com/ThomasLap13/Game-Reduction) | Boutique en ligne |
 
 ---
 
