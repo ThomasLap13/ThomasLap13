@@ -55,26 +55,16 @@ Je suis également **fondateur de SlapIA**, un projet axé sur l’intelligence 
 |------|-------------|
 | [Windows11_SetWallpaper](https://github.com/ThomasLap13/Windows11_UninstallBloatware) | Script PowerShell permettant de définir automatiquement un fond d’écran personnalisé sur Windows 11. |
 | [Windows11_UninstallBloatware](https://github.com/ThomasLap13/Windows11_UninstallBloatware) | Outil PowerShell pour supprimer les applications préinstallées inutiles et optimiser Windows 11. |
-| [Game-Reduction](https://github.com/ThomasLap13/Game-Reduction) | Projet de boutique en ligne orientée jeux vidéo. |
 | [SlapIA](https://github.com/SlapIA-com) | Projet fondé autour de l’intelligence artificielle et de solutions innovantes. |
 
 ---
 
 ## 📬 Contact
 
-- 💬 Discord : **@ThomasLap13**
-- 📧 Email : **Thomas13.Contact@gmail.com**
+- 📧 Email : **Thomas.Lapierre@slapia.com**
 - 🌐 GitHub : https://github.com/ThomasLap13
 - 🚀 SlapIA : https://www.slapia.com
 
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasLap13&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasLap13&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
